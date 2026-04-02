@@ -1,1 +1,19 @@
-# sdvc
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Страница</title>
+    <style>
+        p {
+            font-size: 20px;
+            color: black; /* простой текст */
+        }
+        body {
+            background: white; /* белый фон, без цвета */
+        }
+    </style>
+</head>
+<body>
+    <p>Привет, мир!</p>
+</body>
+</html>
